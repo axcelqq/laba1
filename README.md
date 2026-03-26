@@ -10,11 +10,10 @@
 `rectangle.cpp` - программа для расчёта периметра, площади и диагонали прямоугольника |
 `rectangle` - компилированный файл. |
 
-## Программа
+# Программа
 #include <iostream>
 #include <cmath>
 using namespace std;
-
 int main() {
     double a, b;
 
